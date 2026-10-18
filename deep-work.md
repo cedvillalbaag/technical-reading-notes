@@ -1,6 +1,6 @@
 # 📚 [Deep Work] — [Cal Newport]
 
-- **Category:** Asset Management / Reliability / Data Analytics
+- **Category:** Productivity, Systems, and Approach
 - **Date Read:** [OCT, 2021]
 - **Rating:** ⭐⭐⭐⭐⭐ (5/5)
 
