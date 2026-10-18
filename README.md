@@ -44,3 +44,7 @@ The goal of this library is to transform theory from reference texts into action
 | :--- | :--- | :--- | :---: |
 | **Deep Work** | Cal Newport | Attention management, elimination of distractions, and deep work blocks. | [See Note 📄](https://github.com/cedvillalbaag/technical-reading-notes/blob/main/Rework.md) |
 | **Atomic Habits** | James Clear | Systems for personal continuous improvement and the design of professional routines. | [See Note 📄](./productivity-and-systems/atomic-habits-james-clear.md) |
+| **Goals** | Brian Tracy | Practical strategies for determining and achieving your goals. | [See Note 📄](./productivity-and-systems/atomic-habits-james-clear.md) |
+
+
+
