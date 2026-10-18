@@ -30,3 +30,17 @@ The goal of this library is to transform theory from reference texts into action
 | **La Meta (The Goal)** | Eliyahu M. Goldratt | Theory of Constraints (TOC) applied to bottlenecks in plants. | [See Note 📄](./operations-and-strategy/the-goal-goldratt.md) |
 
 ---
+
+### 🔧 Mechanical Engineering and Design Fundamentals
+| Book Title | Author | Focus / Practical Application | Link to Note |
+| :--- | :--- | :--- | :---: |
+| **Shigley’s Mechanical Engineering Design** | Richard Budynas et al. | Static/fatigue failure criteria and sizing of machine elements.| [See Note 📄](./mechanical-engineering-fundamentals/shigleys-mechanical-engineering-design.md) |
+| **Marks' Standard Handbook for Mechanical Engineers** | Ali Sadegh et al. | Quick reference for material selection, pumps, piping, and thermodynamics. | [See Note 📄](./mechanical-engineering-fundamentals/markands-standard-handbook.md) |
+
+---
+
+### ⚡ Productivity, Systems, and Approach
+| Book Title | Author | Focus / Practical Application | Link to Note |
+| :--- | :--- | :--- | :---: |
+| **Deep Work** | Cal Newport | Attention management, elimination of distractions, and deep work blocks. | [See Note 📄](./productivity-and-systems/deep-work-cal-newport.md) |
+| **Atomic Habits** | James Clear | Systems for personal continuous improvement and the design of professional routines. | [See Note 📄](./productivity-and-systems/atomic-habits-james-clear.md) |
