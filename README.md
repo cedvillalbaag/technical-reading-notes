@@ -42,5 +42,5 @@ The goal of this library is to transform theory from reference texts into action
 ### ⚡ Productivity, Systems, and Approach
 | Book Title | Author | Focus / Practical Application | Link to Note |
 | :--- | :--- | :--- | :---: |
-| **Deep Work** | Cal Newport | Attention management, elimination of distractions, and deep work blocks. | [See Note 📄](./productivity-and-systems/deep-work-cal-newport.md) |
+| **Deep Work** | Cal Newport | Attention management, elimination of distractions, and deep work blocks. | [See Note 📄]([./productivity-and-systems/deep-work-cal-newport.md](https://github.com/cedvillalbaag/technical-reading-notes/blob/main/Rework.md)) |
 | **Atomic Habits** | James Clear | Systems for personal continuous improvement and the design of professional routines. | [See Note 📄](./productivity-and-systems/atomic-habits-james-clear.md) |
